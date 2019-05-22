@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg4_EyasRashid/driver.cpp
+iostream
+-
+vector
+-
+mergesort.cpp
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg4_EyasRashid/mergesort.cpp
+stdlib.h
+-
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg4_EyasRashid/mergesort.cpp
+vector
+-
+math.h
+-
+algorithm
+-
+
